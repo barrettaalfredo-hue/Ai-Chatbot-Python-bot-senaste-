@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "hej",
+    "ts": "2025-09-05T17:14:45.119746+00:00"
+  },
+  {
+    "role": "assistant",
+    "content": "Hej! Hur mår du? Vad kan jag hjälpa dig med?",
+    "ts": "2025-09-05T17:14:46.496374+00:00"
+  },
+  {
+    "role": "user",
+    "content": "jag heter johan",
+    "ts": "2025-09-05T17:14:50.511347+00:00"
+  },
+  {
+    "role": "assistant",
+    "content": "Trevligt att träffas, Johan! Hur kan jag hjälpa dig idag?",
+    "ts": "2025-09-05T17:14:51.512846+00:00"
+  },
+  {
+    "role": "user",
+    "content": "vad heter jag",
+    "ts": "2025-09-05T17:14:53.713565+00:00"
+  },
+  {
+    "role": "assistant",
+    "content": "Du heter Johan. Hur kan jag hjälpa dig idag?",
+    "ts": "2025-09-05T17:14:54.743865+00:00"
+  },
+  {
+    "role": "user",
+    "content": "hello",
+    "ts": "2025-09-05T17:14:57.648330+00:00"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello! How can I assist you today?",
+    "ts": "2025-09-05T17:14:58.951168+00:00"
+  }
+]
