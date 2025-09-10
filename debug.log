@@ -1,0 +1,265 @@
+2025-09-04 19:20:29,959 [INFO] CLI started – debug mode active
+2025-09-04 19:20:35,575 [INFO] [ask_chatbot] detected_language=sv
+2025-09-04 19:20:36,563 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:20:45,050 [INFO] [ask_chatbot] detected_language=en
+2025-09-04 19:20:46,041 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:22:34,104 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-04 19:22:36,511 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-04 19:22:36,520 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (42 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-04 19:22:37,448 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:22:40,723 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-04 19:22:40,736 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (44 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-04 19:22:41,538 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:22:44,671 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-04 19:22:44,684 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (46 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-04 19:22:49,942 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:30:51,120 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-04 19:30:53,103 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-04 19:30:53,115 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (48 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-04 19:30:53,115 [INFO] [chatbot-debug] [call_openai] Sending 69 messages to model
+2025-09-04 19:30:54,162 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:30:54,166 [INFO] [chatbot-debug] [call_openai] Got 33 chars back
+2025-09-04 19:30:56,591 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-04 19:30:56,606 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (50 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-04 19:30:56,607 [INFO] [chatbot-debug] [call_openai] Sending 70 messages to model
+2025-09-04 19:30:57,906 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-04 19:30:57,909 [INFO] [chatbot-debug] [call_openai] Got 43 chars back
+2025-09-04 19:31:31,613 [INFO] [chatbot-debug] [summarize_conversation] summary_language=sv
+2025-09-04 19:31:34,673 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:44:08,529 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 18:44:10,861 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:44:10,872 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (52 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:44:10,873 [INFO] [chatbot-debug] [call_openai] Sending 70 messages to model
+2025-09-05 18:44:12,507 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:44:12,514 [INFO] [chatbot-debug] [call_openai] Got 33 chars back
+2025-09-05 18:50:47,800 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 18:50:49,687 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:50:49,701 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (54 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:50:49,702 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 18:50:51,038 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:50:51,044 [INFO] [chatbot-debug] [call_openai] received 38 chars
+2025-09-05 18:50:53,658 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:50:53,671 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (56 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:50:53,671 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 18:50:54,824 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:50:54,827 [INFO] [chatbot-debug] [call_openai] received 43 chars
+2025-09-05 18:53:17,719 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 18:53:19,634 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:53:19,643 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (58 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:53:19,643 [WARNING] [chatbot-debug] [retry] call_openai failed (attempt 1/5) retriable=False err=Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:53:19,643 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:53:26,308 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:53:26,319 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (60 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:53:26,320 [WARNING] [chatbot-debug] [retry] call_openai failed (attempt 1/5) retriable=False err=Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:53:26,320 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:53:58,883 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 18:53:58,976 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (62 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:53:58,976 [WARNING] [chatbot-debug] [retry] call_openai failed (attempt 1/5) retriable=False err=Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:53:58,976 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:54:16,333 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:54:16,345 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (64 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:54:16,345 [WARNING] [chatbot-debug] [retry] call_openai failed (attempt 1/5) retriable=False err=Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:54:16,345 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 18:54:23,502 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 18:54:24,744 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 18:54:24,753 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (66 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:54:24,753 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 18:54:26,086 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:54:26,090 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 18:54:28,766 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 18:54:28,842 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (68 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 18:54:28,842 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 18:54:30,870 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:54:30,871 [INFO] [chatbot-debug] [call_openai] received 34 chars
+2025-09-05 18:57:36,908 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:00:58,760 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:00:58,761 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:01:01,650 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:01:01,660 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (70 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:01:01,660 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:01:02,524 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:01:02,531 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:01:05,168 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:01:05,179 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (72 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:01:05,179 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:01:05,705 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:01:05,708 [INFO] [chatbot-debug] [call_openai] received 43 chars
+2025-09-05 19:01:07,806 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 19:01:07,883 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (74 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:01:07,883 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:01:08,423 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:01:08,425 [INFO] [chatbot-debug] [call_openai] received 34 chars
+2025-09-05 19:02:00,784 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 19:02:00,868 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (76 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:02:00,868 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:02:02,017 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:02:02,022 [INFO] [chatbot-debug] [call_openai] received 196 chars
+2025-09-05 19:02:08,634 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:02:08,647 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (78 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:02:08,647 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:02:09,730 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:02:09,734 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:02:21,221 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:02:21,221 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:02:23,151 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:02:23,160 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (80 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:02:23,160 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:02:24,394 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:02:24,402 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:02:44,419 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:02:44,431 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (82 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:02:44,431 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:02:45,005 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:02:45,011 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:02:54,763 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:02:54,763 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:02:56,522 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:02:56,531 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (84 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:02:56,531 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:02:57,232 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:02:57,236 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:03:18,187 [WARNING] [chatbot-debug] 🚨 DEBUG MODE: Alla OpenAI-anrop kommer att FEJKA fel (fallback aktiverad).
+2025-09-05 19:03:18,187 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:03:19,838 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:03:19,847 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (86 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:03:19,847 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 1/4), väntar 2.0s...
+2025-09-05 19:03:21,847 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 2/4), väntar 3.2s...
+2025-09-05 19:03:25,048 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 3/4), väntar 5.1s...
+2025-09-05 19:03:30,168 [ERROR] [chatbot-debug] ❌ Alla försök misslyckades!
+2025-09-05 19:03:30,168 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 19:03:34,952 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 19:03:35,030 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (88 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:03:35,030 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 1/4), väntar 2.0s...
+2025-09-05 19:03:37,031 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 2/4), väntar 3.2s...
+2025-09-05 19:03:40,231 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 3/4), väntar 5.1s...
+2025-09-05 19:03:45,351 [ERROR] [chatbot-debug] ❌ Alla försök misslyckades!
+2025-09-05 19:03:45,351 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 19:04:08,124 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:04:08,139 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (90 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:04:08,139 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 1/4), väntar 2.0s...
+2025-09-05 19:04:10,139 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 2/4), väntar 3.2s...
+2025-09-05 19:04:13,340 [WARNING] [chatbot-debug] ⚠️ Error: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1) (försök 3/4), väntar 5.1s...
+2025-09-05 19:04:18,460 [ERROR] [chatbot-debug] ❌ Alla försök misslyckades!
+2025-09-05 19:04:18,461 [ERROR] [chatbot-debug] [ask_chatbot] call_openai failed: Simulated OpenAI failure (DEBUG_FORCE_OPENAI_FAIL=1)
+2025-09-05 19:04:27,862 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:04:27,862 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:04:29,473 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:04:29,483 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (92 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:04:29,483 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:04:30,307 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:04:30,313 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:06:49,533 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:06:49,533 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:06:52,114 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:06:52,123 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (94 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:06:52,123 [INFO] [chatbot-debug] [call_openai] sending 70 messages to model
+2025-09-05 19:06:52,966 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:06:52,975 [INFO] [chatbot-debug] [call_openai] received 33 chars
+2025-09-05 19:10:20,977 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:10:20,978 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:10:22,582 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:10:22,590 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (96 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:10:23,457 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:10:25,405 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 19:10:25,483 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (98 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:10:26,078 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:12:58,819 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:12:58,831 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (100 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:13:03,141 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:13:10,914 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 19:13:10,996 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (102 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:13:15,246 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:13:55,107 [INFO] [chatbot-debug] [ask_chatbot] detected_language=ar
+2025-09-05 19:13:55,122 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (104 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:14:01,274 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:14:05,695 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:14:05,711 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (106 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-05 19:14:06,440 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:14:43,418 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-05 19:14:43,418 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-05 19:14:45,106 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:14:46,488 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:14:50,496 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:14:51,509 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:14:53,702 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-05 19:14:54,740 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:14:57,572 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-05 19:14:58,947 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 14:59:21,330 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-06 14:59:21,330 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-06 14:59:23,282 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-06 14:59:23,291 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (108 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 14:59:24,667 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 14:59:28,680 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-06 14:59:28,702 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (110 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 14:59:29,836 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 15:01:11,144 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-06 15:05:03,729 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-06 15:05:03,733 [INFO] [chatbot-debug] CLI started – debug mode active
+2025-09-06 15:05:05,701 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-06 15:05:05,710 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (112 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 15:05:06,609 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 15:05:15,975 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-06 15:05:15,987 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (114 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 15:05:16,693 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 15:10:17,208 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-06 15:10:18,848 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-06 15:10:18,859 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (116 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 15:10:19,829 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 15:10:22,721 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-06 15:10:22,735 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (118 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 15:10:23,836 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-06 15:10:27,179 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-06 15:10:27,291 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (120 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-06 15:10:28,376 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:55:15,807 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-10 18:55:17,745 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-10 18:55:17,756 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (122 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:55:19,394 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:55:22,437 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-10 18:55:22,542 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (124 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:55:23,773 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:55:26,209 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-10 18:55:26,224 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (126 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:55:27,657 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:56:36,206 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-10 18:56:36,687 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (128 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:56:39,168 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:56:39,185 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-10 18:56:39,264 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (130 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:56:45,524 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:56:45,546 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-10 18:56:45,623 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (132 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:56:47,898 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-10 18:56:51,196 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:56:57,090 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-10 18:56:57,104 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (134 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:56:59,260 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:57:13,188 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-10 18:57:13,205 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (136 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:57:15,298 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:57:25,458 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-10 18:57:25,475 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (138 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:57:29,019 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:57:29,028 [INFO] [chatbot-debug] [ask_chatbot] detected_language=sv
+2025-09-10 18:57:29,042 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (140 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:57:30,992 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 18:57:31,008 [INFO] [chatbot-debug] [ask_chatbot] detected_language=en
+2025-09-10 18:57:31,090 [WARNING] [chatbot-debug] ⚠️ Historiken är lång (142 meddelanden). Överväg att sammanfatta eller trimma.
+2025-09-10 18:57:33,761 [INFO] [httpx] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-10 19:05:53,422 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-10 19:06:09,995 [ERROR] [yfinance] HTTP Error 404: 
+2025-09-10 19:06:10,594 [ERROR] [yfinance] $VOLV-B: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-10 19:06:11,083 [ERROR] [yfinance] HTTP Error 404: 
+2025-09-10 19:06:11,474 [ERROR] [yfinance] $VOLV-B: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-10 19:06:12,345 [ERROR] [yfinance] $ERIC-B: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-10 19:06:12,661 [ERROR] [yfinance] $ERIC-B: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-10 19:23:20,244 [INFO] [chatbot-debug] ✅ NORMAL MODE: OpenAI-anrop körs på riktigt.
+2025-09-10 19:23:31,323 [ERROR] [yfinance] HTTP Error 404: 
+2025-09-10 19:23:31,865 [ERROR] [yfinance] $IDAGS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-10 19:23:57,000 [ERROR] [yfinance] $BRA: possibly delisted; no price data found  (period=1y)
+2025-09-10 19:23:57,167 [ERROR] [yfinance] $ATTD: possibly delisted; no price data found  (period=1y)
+2025-09-10 19:23:57,329 [ERROR] [yfinance] $ATT: possibly delisted; no price data found  (period=1y)
+2025-09-10 19:24:16,287 [ERROR] [yfinance] HTTP Error 404: 
+2025-09-10 19:24:17,160 [ERROR] [yfinance] $VOLVO: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-10 19:24:19,508 [ERROR] [yfinance] $IDAG: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
